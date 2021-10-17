@@ -1,0 +1,26 @@
+.navbar-nav{
+    background-color:black;
+}
+
+    
+
+body{
+    background-image: url('usman.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+.Creatives{
+    text-align: center;
+    text-shadow:white;
+}
+
+
+.row{
+    text-align: center;
+    color-adjust: black;
+}
+.navbar-brand{
+    text-emphasis: none;
+    background-color:rgb(34, 11, 138);
+}
